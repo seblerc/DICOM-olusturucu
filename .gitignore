@@ -1,0 +1,5 @@
+# PHI içerebilecek şeyler
+*.dcm
+patient.json
+.env
+kafatasi.png
